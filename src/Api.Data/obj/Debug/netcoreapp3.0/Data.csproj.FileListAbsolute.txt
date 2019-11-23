@@ -1,0 +1,13 @@
+C:\cmder\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.0\Data.deps.json
+C:\cmder\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.0\Data.runtimeconfig.json
+C:\cmder\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.0\Data.runtimeconfig.dev.json
+C:\cmder\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.0\Data.dll
+C:\cmder\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.0\Data.pdb
+C:\cmder\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.0\Domain.dll
+C:\cmder\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\cmder\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.0\Data.csprojAssemblyReference.cache
+C:\cmder\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.0\Data.AssemblyInfoInputs.cache
+C:\cmder\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.0\Data.AssemblyInfo.cs
+C:\cmder\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.0\Data.csproj.CopyComplete
+C:\cmder\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.0\Data.dll
+C:\cmder\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.0\Data.pdb

@@ -1,0 +1,8 @@
+C:\cmder\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.0\Domain.deps.json
+C:\cmder\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.0\Domain.dll
+C:\cmder\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\cmder\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfoInputs.cache
+C:\cmder\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfo.cs
+C:\cmder\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.0\Domain.dll
+C:\cmder\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.0\Domain.pdb
+C:\cmder\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.0\Domain.csprojAssemblyReference.cache

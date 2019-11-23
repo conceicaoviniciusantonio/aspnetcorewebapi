@@ -1,0 +1,14 @@
+C:\cmder\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\cmder\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\cmder\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\cmder\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\cmder\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\cmder\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\cmder\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\cmder\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\cmder\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\cmder\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Data.dll
+C:\cmder\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\cmder\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\cmder\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Data.pdb
+C:\cmder\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
